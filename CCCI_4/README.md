@@ -39,7 +39,7 @@ Data was gathered from Movie Lens for over 45,000. The data was categorically di
        'Spoken Languages', 'Status', 'Tagline', 'Title', 'Video',
        'Vote Average', 'Vote Count' which totaled almost 45,000 datapoints.  
 
-Using the Kaggle data, supervised and unsupervised learning models were built to predict affluency or identify patterns in the data.
+Using the Movie Lens data, supervised and unsupervised learning models were built to predict affluency or identify patterns in the data.
 
 
 
