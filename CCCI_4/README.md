@@ -15,7 +15,6 @@
   * [Supervised Learning Classification Model](http://localhost:8889/notebooks/CCCI_4/code/Supervised_Learning_Classification_Model.ipynb)
   * [Master Copy]
   (http://localhost:8889/notebooks/CCCI_4/code/Master_Copy.ipynb)
-* [Data](https://git.generalassemb.ly/cobkenney/Project_5/tree/master/data)
 <!--te-->
 
 ## Table Of Contents
