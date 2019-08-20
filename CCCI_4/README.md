@@ -31,7 +31,7 @@ For my capstone project I will build a linear and logistic regression model to p
 
 ## 2. Executive Summary
 
-Data was gathered from Yelp for over 45,000. The data was categorically divided into multiple categories, 
+Data was gathered from Movie Lens for over 45,000. The data was categorically divided into multiple categories, 
        'Adult', 'Belongs To Collection', 'Budget', 'Genres', 'Homepage', 'ID',
        'IMDB_id', 'Original Language', 'Original Title', 'Overview',
        'Popularity', 'Poster Path', 'Production Companies',
