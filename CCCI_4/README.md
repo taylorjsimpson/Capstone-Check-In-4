@@ -7,7 +7,8 @@
 
 <!--ts-->
 * [Code](http://localhost:8889/tree/CCCI_4/code)
-  * [Data Collection & Data Aggregation](http://localhost:8889/notebooks/Project_5/code/Data_Collection_%26_Cleaning.ipynb)
+  * [Data Collection & Data Aggregation]
+  http://localhost:8889/notebooks/CCCI_4/code/Data_Collection_%26_Cleaning.ipynb
   * [Exploratory Data Analysis]
   (http://localhost:8889/notebooks/CCCI_4/code/EDA.ipynb)
   * [Supervised Learning Regression Model](http://localhost:8889/notebooks/CCCI_4/code/Supervised_Learning_Regression_Models.ipynb)
